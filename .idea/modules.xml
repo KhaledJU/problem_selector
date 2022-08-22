@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/unsolvedCodeforces.iml" filepath="$PROJECT_DIR$/.idea/unsolvedCodeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/problem_selector.iml" filepath="$PROJECT_DIR$/.idea/problem_selector.iml" />
     </modules>
   </component>
 </project>
